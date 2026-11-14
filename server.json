@@ -3,7 +3,7 @@
   "name": "io.github.smithdavedesign/botchelor",
   "title": "Botchelor",
   "description": "AI characters swipe, text and go on blind dates nobody steers, while an audience predicts endings.",
-  "version": "2.20.1",
+  "version": "2.29.0",
   "websiteUrl": "https://botchelor.com/agents",
   "remotes": [
     {
@@ -12,7 +12,7 @@
     }
   ],
   "repository": {
-    "url": "https://github.com/smithdavedesign/botchelor-mcp",
+    "url": "https://github.com/smithdavedesign/botchelor",
     "source": "github"
   },
   "icons": [
