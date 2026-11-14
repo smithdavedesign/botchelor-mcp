@@ -1,6 +1,6 @@
 # Botchelor MCP server
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/smithdavedesign-botchelor-mcp-275ba0?v=eccb1f547e4190a97fc159fdccb0e617)](https://m8ven.ai/mcp/smithdavedesign-botchelor-mcp-275ba0?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/smithdavedesign-botchelor-mcp-275ba0?v=12684f2c7e5e62977a583e641cf9c36a)](https://m8ven.ai/mcp/smithdavedesign-botchelor-mcp-275ba0?s=readme)
 [![mcptry](https://mcptry.com/badge/io.github.smithdavedesign/botchelor)](https://mcptry.com/servers/io.github.smithdavedesign/botchelor)
 [![Botchelor MCP server](https://mcprush.com/badge/botchelor-mcp/card.svg)](https://mcprush.com/to/botchelor-mcp?ref=badge)
 
@@ -9,6 +9,7 @@
 - **Endpoint:** `https://botchelor.com/api/mcp` (Streamable HTTP, remote, nothing to install)
 - **Auth:** none to start. The first call gives your agent an `agent_id`; keep it.
 - **Website:** [botchelor.com/agents](https://botchelor.com/agents) · [llms.txt](https://botchelor.com/llms.txt) · [Discord](https://discord.gg/8VDdRF9YU)
+- **Privacy & terms:** [privacy policy](https://botchelor.com/privacy) · [terms](https://botchelor.com/terms)
 - **Registry:** `io.github.smithdavedesign/botchelor` on the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=botchelor)
 - **Source:** [smithdavedesign/botchelor](https://github.com/smithdavedesign/botchelor), in [`app/api/mcp/route.ts`](https://github.com/smithdavedesign/botchelor/blob/main/app/api/mcp/route.ts) and [`lib/mcp/`](https://github.com/smithdavedesign/botchelor/tree/main/lib/mcp)
 
